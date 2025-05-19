@@ -4,11 +4,11 @@ title: Contact
 permalink: /about/contact
 ---
 
-#Here
+# Here
 
 Contact me somewhere
 
 
-#Somewhere else
+# Somewhere else
 
 Or here
