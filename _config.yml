@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Aleksandra Grudskaia"
-  avatar           : /assests/images/agrudskaia_logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/agrudskaia_logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Astrophysitist. Exporer in life and work. Currently Software Engineer at Max Planck Computing and data Facility."
   location         : "Garching b. München, <br> Deutschland"
   email            : aleksandra.grudskaia@mpcdf.mpg.de
