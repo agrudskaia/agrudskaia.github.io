@@ -150,10 +150,10 @@ footer:
     #- label: "Facebook"
     #  icon: "fab fa-fw fa-facebook-square"
     #  # url:
-    - label: "LinkedIn"
+    - label: #"LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/agrudskaia"
-    - label: "GitHub"
+    - label: #"GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/agrudskaia"
     #- label: "GitLab"
