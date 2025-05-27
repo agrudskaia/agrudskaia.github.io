@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Aleksandra Grudskaia"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Aleksandra Grudskaia"
+description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,52 +113,55 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Aleksandra Grudskaia"
+  avatar           : /assests/images/agrudskaia_logo.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Astrophysitist. Exporer in life and work. Currently Software Engineer at Max Planck Computing and data Facility."
+  location         : "Garching b. München, <br> Deutschland"
+  email            : aleksandra.grudskaia@mpcdf.mpg.de
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/agrudskaia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/agrudskaia"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aleksandra.grudskaia@mpcdf.mpg.de"
+    #- label: "Website"
+    #  icon: "fas fa-fw fa-link"
+    #  # url: "https://your-website.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  # url: "https://twitter.com/"
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  # url: "https://facebook.com/"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  # url:
+    #- label: "Facebook"
+    #  icon: "fab fa-fw fa-facebook-square"
+    #  # url:
+    #- label: "GitHub"
+    #  icon: "fab fa-fw fa-github"
+    #  # url:
+    #- label: "GitLab"
+    #  icon: "fab fa-fw fa-gitlab"
+    #  # url:
+    #- label: "Bitbucket"
+    #  icon: "fab fa-fw fa-bitbucket"
+    #  # url:
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  # url:
 
 
 # Reading Files
